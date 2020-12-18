@@ -1,7 +1,7 @@
 {
-	"name": "@d-fischer/shared-utils",
+	"name": "d-fischer-shared-utils",
 	"tags": [
-		"@d-fischer/shared-utils",
+		"d-fischer-shared-utils",
 		"externs",
 		"typescript",
 		"javascript",
